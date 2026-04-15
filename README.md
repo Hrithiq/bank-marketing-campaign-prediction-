@@ -115,15 +115,15 @@ This project leverages **machine learning models** to identify high-potential cu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/bank-marketing-campaign-prediction.git ```
+git clone https://github.com/yourusername/bank-marketing-campaign-prediction.git
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
 
 3. Run the notebook:
 ```bash
-jupyter notebook ```
+jupyter notebook
 
 ## Contributors
 - Hrithiq Gupta – SVM, Logistic Regression, SMOTE
